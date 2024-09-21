@@ -70,7 +70,7 @@ button {
   margin-bottom: 24px;
 }
 
-.tab-actions > button {
+.tab-actions>button {
   background: none;
   text-decoration: underline;
   color: #4c6ef5;
